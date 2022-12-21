@@ -182,7 +182,7 @@ section {
     width: 100%;
     background: linear-gradient(to right, #8ed3f1, #de4af8, #8ed3f1, #8ed3f1, #8ed3f1);;
     opacity: .8;
-    transition: all .3s ease;
+    transition: all .2s ease;
 }
 
 .gradient-overlay {
@@ -192,7 +192,11 @@ section {
     height: 100%;
     width: 100%;
     background: linear-gradient(to right, #8ed3f1, #de4af8, #8ed3f1, #8ed3f1, #8ed3f1);;
-    opacity: .8;
-    transition: all .3s ease;
+    opacity: .6;
+    transition: all .2s ease;
+
+}
+.gradient-overlay:hover {
+    opacity: 0;
 
 }
