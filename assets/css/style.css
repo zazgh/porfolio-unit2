@@ -82,7 +82,8 @@ a {
 
 .right-content {
 
-    margin-left: 420px;
+    margin-left: 450px;
+    margin: 10px;
     text-align: left;
     font-size: 20px;
     padding-left: 30px;
@@ -131,18 +132,19 @@ section {
 
     .block .leyend {
     position: absolute;
-    margin: 2px;
-    top: 30px;
-    right: 390px;
+    
+    padding: 20px;
+    bottom: 20px;
+    left: 20px;
     font-size: 15px;
     background-color: rgb(128, 189, 209);
     }
 
     footer{
-        background:#2a607c;
+        
         text-align: center;
         padding-top: 30px;
-        font-size: 20px;
+        font-size: 15px;
         color: rgb(128, 189, 209);
         height: 100px;
 
